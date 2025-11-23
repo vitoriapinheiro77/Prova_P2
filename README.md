@@ -90,4 +90,4 @@ python tests/teste_completo.py
 # CAPTURA DE TELA DO SISTEMA EM EXECUÇÃO
 
 ![Tela 1](./foto1.png)
-![Tela 2](./foto 2.png)
+![Tela 2](./foto2.png)
